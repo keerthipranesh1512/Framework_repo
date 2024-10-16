@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="79" started-at="2024-10-15T10:35:14Z" finished-at="2024-10-15T10:35:14Z">
+  <suite started-at="2024-10-16T05:20:00Z" name="Suite" finished-at="2024-10-16T05:20:00Z" duration-ms="60">
     <groups>
     </groups>
-    <test name="Test" duration-ms="79" started-at="2024-10-15T10:35:14Z" finished-at="2024-10-15T10:35:14Z">
-      <class name="Test2.ContactCreationTest">
-        <test-method status="PASS" signature="createContactTest()[pri:0, instance:Test2.ContactCreationTest@7920ba90]" name="createContactTest" duration-ms="17" started-at="2024-10-15T10:35:14Z" finished-at="2024-10-15T10:35:14Z">
+    <test started-at="2024-10-16T05:20:00Z" name="Test" finished-at="2024-10-16T05:20:00Z" duration-ms="60">
+      <class name="Test1.OrgTest">
+        <test-method signature="OrgTest()[pri:0, instance:Test1.OrgTest@8458f04]" started-at="2024-10-16T05:20:00Z" name="OrgTest" finished-at="2024-10-16T05:20:00Z" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createContactTest -->
-        <test-method status="PASS" signature="modifyContactTest()[pri:0, instance:Test2.ContactCreationTest@7920ba90]" name="modifyContactTest" duration-ms="2" started-at="2024-10-15T10:35:14Z" finished-at="2024-10-15T10:35:14Z">
+        </test-method> <!-- OrgTest -->
+        <test-method signature="createOrgTest()[pri:0, instance:Test1.OrgTest@8458f04]" started-at="2024-10-16T05:20:00Z" name="createOrgTest" finished-at="2024-10-16T05:20:00Z" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- modifyContactTest -->
-      </class> <!-- Test2.ContactCreationTest -->
+        </test-method> <!-- createOrgTest -->
+      </class> <!-- Test1.OrgTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
