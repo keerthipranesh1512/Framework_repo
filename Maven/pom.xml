@@ -4,8 +4,8 @@
   <artifactId>Maven</artifactId>
   <version>0.0.2-SNAPSHOT</version>
    <properties>
-	<maven.compiler.target>1.8</maven.compiler.target>
-	<maven.compiler.source>1.8</maven.compiler.source>
+	<maven.compiler.target>21</maven.compiler.target>
+	<maven.compiler.source>21</maven.compiler.source>
   </properties>
    <profiles>
 	<profile>
