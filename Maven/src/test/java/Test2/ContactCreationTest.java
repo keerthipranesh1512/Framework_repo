@@ -9,7 +9,7 @@ public void createContactTest()
 	System.out.println("execute create contact test");
 }
 @Test
-public void modifyContactTest()
+public void deleteContactTest()
 {
 	System.out.println("execute modify contact test");
 }
