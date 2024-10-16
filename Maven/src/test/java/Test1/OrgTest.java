@@ -21,5 +21,5 @@ public class OrgTest {
 	{
 		System.out.println("execute modify org test");
 	
-	int a=0;}
+}
 }
