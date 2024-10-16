@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class ContactCreationTest {
 @Test
-public void createContactTest()
+public void creContactTest()
 {
 	System.out.println("execute create contact test");
 }
