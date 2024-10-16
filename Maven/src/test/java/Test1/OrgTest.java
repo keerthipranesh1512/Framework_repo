@@ -17,7 +17,7 @@ public class OrgTest {
 		System.out.println("execute create org test");
 	}
 	@Test
-	public void modifyOrgTest()
+	public void OrgTest()
 	{
 		System.out.println("execute modify org test");
 	}
